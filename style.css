@@ -1,0 +1,229 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+    vertical-align: middle;
+}
+nav{
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+    }
+ul{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.slider{
+   position: relative;
+}     
+#web{
+position: absolute;
+bottom: 150px;
+left: 50px;
+}
+#agency{
+    position: absolute;
+    bottom: 120px;
+    left: 50px;
+}
+#slogan{
+    position: absolute;
+    bottom: 100px;
+    left: 80px;
+}
+#button{
+    position: absolute;
+    bottom: 80px;
+    left: 60px;
+}
+#bloc{
+position: relative;
+}
+#entete{
+    position: absolute;
+    left:40% ;
+}
+#cercle{
+    width: 15px;
+    height: 15px;
+    border-radius: 20px;
+    background: grey;
+    position: relative;
+    left: 80px;
+}
+#service{
+    position: relative;
+    top: 120px;
+}
+#ordi{
+    position: relative;
+    right: 50px;
+}
+#nuage{ 
+   position: relative;
+   left: 450px;
+   bottom: 280px;
+}
+#rond{
+    width: 15px;
+    height: 15px;
+    border-radius: 20px;
+    background: grey;
+    position: relative;
+    left: 490px;
+    bottom: 300px;
+}
+#un{
+    position: relative;
+    left: 520px;
+    bottom: 340px;
+}
+#abc{
+    position: relative;
+    left: 520px;
+    bottom: 360px;
+}
+#puce{ 
+    position: relative;
+    left: 450px;
+    bottom: 340px;
+}
+#balle{
+     width: 15px;
+     height: 15px;
+     border-radius: 20px;
+     background: grey;
+     position: relative;
+     left: 490px;
+     bottom: 360px;
+}
+#deux{
+     position: relative;
+     left: 520px;
+     bottom: 400px;
+}
+#def{
+     position: relative;
+     left: 520px;
+     bottom: 420px;
+}
+#montagne{ 
+    position: relative;
+    left: 450px;
+    bottom: 400px;
+}
+#ballon{
+     width: 15px;
+     height: 15px;
+     border-radius: 20px;
+     background: grey;
+     position: relative;
+     left: 490px;
+     bottom: 420px;
+}
+#trois{
+     position: relative;
+     left: 520px;
+     bottom: 460px;
+}
+#ghi{
+     position: relative;
+     left: 520px;
+     bottom: 480px;
+}
+#entete2{
+    position: relative;
+    left:40% ;
+    bottom: 250px;
+}
+#menu{
+   width: 50%;
+   position: relative;
+   right: 20%;
+}
+#theone{
+    background-color: hotpink;
+    height: 40px;
+    width: 100px;
+    line-height: 40px;
+    text-align: center;
+}
+#second{
+    background-color:yellow;
+    height: 40px;
+    width: 100px;
+    line-height: 40px;
+    text-align: center;
+}
+#thethird{
+    background-color:yellowgreen;
+    height: 40px;
+    width: 100px;
+    line-height: 40px;
+    text-align: center;
+}
+#quatre{
+    background-color:blue;
+    height: 40px;
+    width: 100px;
+    line-height: 40px;
+    text-align: center;
+}
+.reduire{
+    width: 190px;
+    height: 150px;
+}
+#lunette{
+    position: relative;
+    right: 350px;
+}
+#lapin{
+    position: relative;
+    bottom: 170px;
+    right: 155px;
+}
+#pompadour{
+    position: relative;
+    bottom: 340px;
+    left: 40px;
+}
+#feuille{
+    position: relative;
+    bottom: 510px;
+    left: 235px;
+}
+#sacs{
+    position: relative;
+    bottom: 525px;
+    right: 350px;}
+#paysage{
+    position: relative;
+    bottom: 695px;
+    right: 155px;
+}
+#fusée{
+    position: relative;
+    bottom: 865px;
+    left: 40px;
+}
+#matos{
+    position: relative;
+    bottom: 1035px;
+    left: 235px;
+}
+#vosges{
+    position: relative;
+    bottom: 1200px;
+}
+
+
+   
