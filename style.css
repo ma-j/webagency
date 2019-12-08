@@ -107,7 +107,7 @@ position: relative;
     position: relative;
     right: 50px;
 }
-#nuage{ 
+#graph{ 
    position: relative;
    left: 450px;
    bottom: 280px;
@@ -135,7 +135,7 @@ position: relative;
     position: relative;
     left: 450px;
     bottom: 340px;
-}
+}    
 #balle{
      width: 15px;
      height: 15px;
