@@ -27,55 +27,63 @@ a{
 }     
 #web{
 position: absolute;
-bottom: 170px;
+bottom: 230px;
 left: 80px;
 color: aliceblue;
 }
 #agency{
     position: absolute;
-    bottom: 140px;
+    bottom: 190px;
     left: 80px;
     color: aliceblue;
 }
 #slogan{
     position: absolute;
-    bottom: 120px;
+    bottom: 160px;
     left: 80px;
     color: aliceblue;
 }
 #button{
     position: absolute;
-    bottom: 80px;
+    bottom: 130px;
     left: 80px;
 }
 .fa-chevron-left{
     position: absolute;
-    bottom: 170px;
-    left: 50px;
+    bottom: 222px;
+    left: 47px;
     color: aliceblue;
+    z-index: 1;
 }
-.demicerclegauche::after {
-    content: "";
-    position: absolute;
-    top: 130px;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    border-radius: 50%;
-  } 
-.demicerclegauche::after {
-    width: 32.5px;
-    height: 65px;
-    bottom: 32.5px;
-    background:grey;
-    border-radius: 32.5px 0 0 32.5px;
-  }
+.demicerclegauche{
+    height: 20px;
+    width: 40px;
+    background: hotpink;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    transform: rotate(90deg);
+    position: relative;
+    bottom: 200px;
+    left: 35px;
+} 
 .fa-chevron-right{
     position: absolute;
-    bottom: 170px;
-    right: 50px;
+    bottom: 222px;
+    right: 47px;
     color: aliceblue;
+    z-index: 1;
 }
+.demicercledroite{
+    height: 20px;
+    width: 40px;
+    background: hotpink;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    transform: rotate(-90deg);
+    position: relative;
+    bottom: 222px;
+    left: 1210px;
+} 
 #bloc{
 position: relative;
 }
