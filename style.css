@@ -27,23 +27,38 @@ a{
 }     
 #web{
 position: absolute;
-bottom: 150px;
-left: 50px;
+bottom: 170px;
+left: 80px;
+color: aliceblue;
 }
 #agency{
     position: absolute;
-    bottom: 120px;
-    left: 50px;
+    bottom: 140px;
+    left: 80px;
+    color: aliceblue;
 }
 #slogan{
     position: absolute;
-    bottom: 100px;
+    bottom: 120px;
     left: 80px;
+    color: aliceblue;
 }
 #button{
     position: absolute;
     bottom: 80px;
-    left: 60px;
+    left: 80px;
+}
+.fa-chevron-left{
+    position: absolute;
+    bottom: 150px;
+    left: 50px;
+    color: aliceblue;
+}
+.fa-chevron-right{
+    position: absolute;
+    bottom: 150px;
+    right: 50px;
+    color: aliceblue;
 }
 #bloc{
 position: relative;
